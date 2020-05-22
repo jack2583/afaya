@@ -16,13 +16,13 @@ highlighter: rouge
 cover_color: red
 
 # The blog button should not be removed.
-#blog_button:
-#    title: Blog
-#    description: Visit blog
+blog_button:
+    title: 版本
+    description: Visit blog
 
 # Navigation buttons in the front page.
-#nav:
-#    - {title: Projects, description: My Projects, url: 'http://project.jack2583.com'}
+nav:
+    - {title: 介绍, description: My Projects, url: 'https://ww.lanzous.com/b015gzfcf'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
