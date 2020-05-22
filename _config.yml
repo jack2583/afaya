@@ -1,7 +1,7 @@
 # Basic
 title: 十口微博助手
 subtitle: 微博桌面助手，刷微博更轻松
-welcome_message: <a href="https://github.com/jack2583/afaya" target="_blank">下载</a>
+welcome_message: <a href="https://ww.lanzous.com/b015gzfcf" target="_blank">下载(密码：7qte）</a>
 description: 微博桌面助手是一个windows桌面客户端，使用它可以更快捷玩转微博
 creator: <a href="http://onev.cat">@onevcat</a>
 
@@ -16,13 +16,13 @@ highlighter: rouge
 cover_color: red
 
 # The blog button should not be removed.
-blog_button:
-    title: Blog
-    description: Visit blog
+#blog_button:
+#    title: Blog
+#    description: Visit blog
 
 # Navigation buttons in the front page.
-nav:
-    - {title: Projects, description: My Projects, url: 'http://project.jack2583.com'}
+#nav:
+#    - {title: Projects, description: My Projects, url: 'http://project.jack2583.com'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
